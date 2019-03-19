@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Feb 2019 22:29:20 at https://themes.iamabdus.com/star/1.3/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.iamabdus.com/star/1.3/ -O1 "C:\Users\grace\Desktop\star tour" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:32:39	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/images/ui-icons_444444_256x240.png (from https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/jquery-ui.min.css)
+22:32:39	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/images/ui-icons_555555_256x240.png (from https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/jquery-ui.min.css)
+22:32:39	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/images/ui-icons_ffffff_256x240.png (from https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/jquery-ui.min.css)
+22:32:39	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/images/ui-icons_777620_256x240.png (from https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/jquery-ui.min.css)
+22:32:39	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/images/ui-icons_cc0000_256x240.png (from https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/jquery-ui.min.css)
+22:32:39	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/images/ui-icons_777777_256x240.png (from https://themes.iamabdus.com/star/1.3/plugins/jquery-ui/jquery-ui.min.css)
+22:32:40	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/images/arrow-down-1.png (from https://themes.iamabdus.com/star/1.3/plugins/selectbox/select_option1.css)
+22:32:40	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/images/fancybox_loading.gif (from https://themes.iamabdus.com/star/1.3/plugins/isotope/jquery.fancybox.css)
+22:32:40	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/images/blank.gif (from https://themes.iamabdus.com/star/1.3/plugins/isotope/jquery.fancybox.css)
+22:32:40	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/images/fancybox_overlay.png (from https://themes.iamabdus.com/star/1.3/plugins/isotope/jquery.fancybox.css)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/img/home-city/exclusive-day-bg.jpg (from https://themes.iamabdus.com/star/1.3/index-v2.html)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/1&title=0&byline=0&portrait=0&api=1" (from https://themes.iamabdus.com/star/1.3/index-v3.html)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/rs-plugin/revolution/css/settings.css (from https://themes.iamabdus.com/star/1.3/coming-soon.html)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/rs-plugin/revolution/css/layers.css (from https://themes.iamabdus.com/star/1.3/coming-soon.html)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/rs-plugin/revolution/css/navigation.css (from https://themes.iamabdus.com/star/1.3/coming-soon.html)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/rs-plugin/revolution/js/jquery.themepunch.tools.min.js (from https://themes.iamabdus.com/star/1.3/coming-soon.html)
+22:32:44	Error: 	"Not Found" (404) at link https://themes.iamabdus.com/star/1.3/plugins/rs-plugin/revolution/js/jquery.themepunch.revolution.min.js (from https://themes.iamabdus.com/star/1.3/coming-soon.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 24 seconds : 348 links scanned, 330 files written (14942528 bytes overall) [11869089 bytes received at 58181 bytes/sec], 4480296 bytes transferred using HTTP compression in 114 files, ratio 25%, 49.7 requests per connection
+(17 errors, 0 warnings, 0 messages)
